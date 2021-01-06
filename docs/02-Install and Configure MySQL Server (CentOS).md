@@ -9,10 +9,10 @@ As database administrators for our company, we have been tasked with performing 
 
 Additional Information:
 ```
-. All steps should be performed as cloud_user, using sudo when necessary. For convenience, a password is not required when using sudo
-. Our working directory should be /home/cloud_user.
-. The URL for the MySQL RPM Bundle tar file is here: https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.15-1.el7.x86_64.rpm-bundle.tar
-. For grading purposes, we will need to update the password for the root user to Linux4me!
+- All steps should be performed as cloud_user, using sudo when necessary. For convenience, a password is not required when using sudo
+- Our working directory should be /home/cloud_user.
+- The URL for the MySQL RPM Bundle tar file is here: https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.15-1.el7.x86_64.rpm-bundle.tar
+- For grading purposes, we will need to update the password for the root user to Linux4me!
 ```
 
 Get Logged In
