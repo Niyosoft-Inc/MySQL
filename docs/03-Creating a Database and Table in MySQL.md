@@ -11,7 +11,7 @@ Use the credentials and server IP in the hands-on lab overview page to log into 
 
 We're ready to proceed.
 
-We can run a quick ## SHOW DATABASES; from the mysql prompt, to see what we're dealing with.
+We can run a quick SHOW DATABASES; from the mysql prompt, to see what we're dealing with.
 
 Delete a Database from the MySQL Server
 This deletes the bad_data database:
