@@ -11,7 +11,8 @@ Additional Information:
 
 - All steps should be performed as cloud_user, using sudo when necessary. For convenience, a password is not required when using sudo
 - Our working directory should be /home/cloud_user.
-- The URL for the MySQL Apt repository configuration file is here: https://dev.mysql.com/get/mysql-apt-config_0.8.12-1_all.deb
+- The URL for the MySQL Apt repository configuration file is here:
+> https://dev.mysql.com/get/mysql-apt-config_0.8.12-1_all.deb
 - For grading purposes, we will need to update the password for the root user to Linux4me!.
 
 ### Get Logged In
