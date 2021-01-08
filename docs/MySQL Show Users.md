@@ -25,3 +25,10 @@ SELECT User, Update_priv FROM mysql.user;
 ```
 
 Just replace “Update_priv” with any fields that you might need.
+
+
+##  Create and give privilege to a user
+```
+create user 'USER'@'%' identified by 'PASSWORD';
+grant all on *.* to 'USER'@'%';
+```
